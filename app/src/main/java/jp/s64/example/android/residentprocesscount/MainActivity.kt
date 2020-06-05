@@ -1,4 +1,4 @@
-package jp.s64.example.android.simpleprocesscount
+package jp.s64.example.android.residentprocesscount
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity

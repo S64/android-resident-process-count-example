@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jp.s64.example.android.simpleprocesscount">
+    package="jp.s64.example.android.residentprocesscount">
 
     <application
         android:allowBackup="true"
@@ -17,6 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name=".MyService"/>
+
     </application>
 
 </manifest>

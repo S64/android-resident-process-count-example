@@ -1,4 +1,4 @@
-package jp.s64.example.android.simpleprocesscount
+package jp.s64.example.android.residentprocesscount
 
 import org.junit.Test
 
